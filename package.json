@@ -1,9 +1,9 @@
 {
-  "name": "bot-panel",
+  "name": "minecraft-bot-panel",
   "version": "1.0.0",
   "main": "web.js",
   "scripts": {
-    "start": "node panel.js"
+    "start": "node web.js"
   },
   "dependencies": {
     "express": "^4.18.2",
